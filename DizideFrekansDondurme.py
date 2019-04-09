@@ -1,6 +1,6 @@
 #kendisine aktarılan bir listenin, frekans tablosunu bulup geri gönderen 
 #bir fonksiyon yazınız.
-
+ 
 liste=[2,3,2,5,8,2,4,3,3,2,8,5,2]
 #sözlük şeklindeyse
 def frequency(list):
